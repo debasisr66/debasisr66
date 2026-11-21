@@ -4,7 +4,7 @@
 
 *"Small, focused software, shipped in the open — learning never ends!"* 
 
-By day, I lead global Outsourced Product Development (OPD) and AI-native engineering practices at Cybage, helping ISVs and technology companies modernize and scale software products. Outside of work, I build zero-dependency, privacy-first web applications and experiment with **spec-based coding** and **agentic AI workflows**. 
+I lead global Outsourced Product Development (OPD) and AI-native engineering practices at Cybage, helping ISVs and technology companies modernize and scale software products. Outside of work, I build zero-dependency, privacy-first web applications and experiment with **spec-based coding** and **agentic AI workflows**. 
 
 #### 🚀 Featured Projects & Portfolio
 
